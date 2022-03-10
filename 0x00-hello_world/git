@@ -1,7 +1,4 @@
 #!/bin/bash
-read -p 'enter file name:' file
-chmod u+x $file
 git add --all
-read -p 'enter commit message: ' message
-git commit -m "$message"
+git commit -m "commit"
 git push
