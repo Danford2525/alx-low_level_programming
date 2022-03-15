@@ -12,9 +12,9 @@ int main(void)
 	int i = 0;
 	while (holberton[i] != '\0')
 {
-	_putchar(holberton[i]);
+	putchar(holberton[i]);
 	i++;
 }
-	_putchar('\n');
+	putchar('\n');
 	return (0);
 }
