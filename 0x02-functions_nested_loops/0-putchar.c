@@ -1,4 +1,6 @@
-#include "holberton.h"
+#include <stdio.h>
+#include <stdlib.h> 
+#include <string.h> 
 /**
  *  * main - Print "Holberton" followed by a new line.
  *  * Description: You are not allowed to include standard libraries.
